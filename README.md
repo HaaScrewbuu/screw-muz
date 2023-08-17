@@ -1,6 +1,6 @@
 # screw-muz
 
-
+0.06 0.10 Resmon
 
 ## Bağımlılıklar(Dependencies)
 - [qb-core]  
